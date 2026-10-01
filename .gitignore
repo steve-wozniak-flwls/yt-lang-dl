@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+downloads/
+*.o
+*.d
+.DS_Store
+__pycache__/
+*.pyc
